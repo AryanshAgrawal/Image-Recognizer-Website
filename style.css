@@ -1,0 +1,27 @@
+.heading{
+background-color: blue;
+width: 80%;
+font-size: 22px;
+}
+body{
+background-color: crimson;
+color: white;
+}
+.NameofObjects{
+font-size: 15px;
+color: yellow;
+}
+#camera{
+width: 350px;
+height: 300px;
+}
+#cameraresult{
+width: 350px;
+height: 300px;
+}
+#resultobjectaccuracy{
+color: rgb(244, 248, 6);
+}
+#resultobjectname{
+    color: rgb(250, 246, 8);
+    }
